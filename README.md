@@ -1,2 +1,3 @@
 # simple-piano
-<a href="https://bekzodturgunoff.github.io/simple-piano/">Live Demo</a>
+
+<a href="https://bekzodturgunoff.github.io/piano/">Live Demo</a>
